@@ -8,6 +8,3 @@ cd Prankdrift
 chmod +x Pdrift.py (to make it executable)
 
 python Pdrift.py
-
-watch the video on YouTube 
-https://youtu.be/FlRXqj0T-JI?si=HJsgnj3Fg04xSaGn
